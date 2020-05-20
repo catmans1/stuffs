@@ -1,4 +1,4 @@
-# Deployment Tools
+# Stuffs
 ***Free starter deployment tools list***
 
 - [Glitch](https://glitch.com)
@@ -42,4 +42,3 @@
 - [Codesandbox](https://codesandbox.io/)
 - [Thimble](https://thimble.mozilla.org/)
 
-contribution and suggestions are always welcome
